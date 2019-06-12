@@ -7,5 +7,5 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 # Assignment discription
 
 
-https://docs.google.com/document/d/1NzLVuwIwKIjTtsTCt97fe-fNhJLHSJpF3D8gbIEXDwc/edit?ts=5d012e8b
+https://docs.google.com/document/d/1NzLVuwIwKIjTtsTCt97fe-fNhJLHSJpF3D8gbIEXDwc/edit?usp=sharing
 
